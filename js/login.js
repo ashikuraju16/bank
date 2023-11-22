@@ -1,3 +1,4 @@
+
 document.getElementById('btn-submit').addEventListener('click',function(){
 
 const emailField = document.getElementById('user-email');
@@ -13,4 +14,4 @@ else {
     console.log ('ber hoye jaaaa')
 }
 
-})
+)}
