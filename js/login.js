@@ -14,4 +14,4 @@ else {
     console.log ('ber hoye jaaaa')
 }
 
-)}
+})
