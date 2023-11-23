@@ -5,7 +5,7 @@ document.getElementById("btn-submit").addEventListener("click", function () {
   const passwordField = document.getElementById("user-password");
   const password = passwordField.value;
 
-  if (email === "ashikur@gmail.com" && password === "2441139") {
+  if (email === "ashikur@gmail.com" && password === "ashikur@gmail.com") {
     console.log("Dhuke jaw");
   } else {
     console.log("ber hoye jaaaa");
